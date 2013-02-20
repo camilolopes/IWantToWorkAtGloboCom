@@ -38,9 +38,10 @@ CV
 	* Servidor Aplicação:TomCat 6, GlassFish,WebSphere Server 7,Jetty	
 	* Cloud Computing : Amazon EC2
 
-* Projetos e Trabalhos
+Projetos e Trabalhos
+==
 
-	* Nome do Projeto: ITS
+* Nome do Projeto: ITS
 	* Cargo: Engenheiro de Software	 Pleno		Abrangência: Nacional (MonSanto Brazil)
 	* Data Inicio: Julho/2012				Data Fim: Presente
 	* Ambiente: Java 5, JavaEE, Web Services,Oracle, Scrum, JSF  2.x, PrimeFaces 3.x, Jenkins,, SOAPUI, SVN, Jetty 7.x, JavaScript, * Agile, TDD, Mockito, JUNIT, DBUnit,Spring, Spring Security, Sonnar,Hibernate 3.x
@@ -48,7 +49,7 @@ CV
 	* Responsabilidades desenvolvimento, manutenção, teste, qualidade e garantir a entrega dentro dos prazos acordados.
 	* Atuação: responsável pelo desenvolvimento, design, manutenção, validação dos requisitos com o cliente assegurando a qualidade interna e externa do produto. Viagem internacional para knowledge training com time de suporte do cliente. 
 	
-	* Nome do Projeto: Portal
+* Nome do Projeto: Portal
 	* Cargo: Desenvolvedor de Software III		Abrangência: ADP Labs
 	* Data Inicio: Março/2012			Data Fim: Julho/2012
 	* Ambiente: Java 5, JavaEE, Web Services,Oracle, Scrum, Quartz, JSF 1.2, Jenkins,, SOAPUI, SVN, WebSphere 7.x, DOJO
@@ -56,7 +57,7 @@ CV
 	* Responsabilidades design, desenvolvimento, manutenção, teste, qualidade e performance de software. Utilizando boas praticas da engenharia de software. 
 	* Atuação: Atou no team do ACS (Access Control System) como sênior software developer desenvolvendo novas features para o produto e direciona os desenvolvedores menos sêniors ao uso de boas práticas de desenvolvimento. 
 	
-	* Nome do Projeto: Projeto HP CloudSystem
+* Nome do Projeto: Projeto HP CloudSystem
 	* Cargo: Software Designer Pleno 	Abrangência: HP R&D
 	* Data Inicio: 10/01/2011			Data Fim: 10/03/2012
 	* Ambiente: Java 5, JavaEE 5, Refactoring, Eclipse, Hibernate 3.x, Spring, Ant, Cloud Computing, Data Warehouse, MSSQL Server 2008, TDD, Scrum, Quartz, Mockito, SVN, Hudson, WebService.
@@ -64,7 +65,7 @@ CV
 	* Responsabilidades:  realizar pesquisa e desenvolvimento para inovações da Hewlett Parckard. Criação design, desenvolvimento, manutenção, teste, qualidade e performance de software. Utilizando boas praticas da engenharia de software. 
 	* Atuação: participou do release 7.1 do produto realizando pesquisas e investigações apresentando soluções para os produtos de virtualização da HP com Java e Data Warehouse. Foi responsável pelo design, desenvolvimento, performance e teste.Utilização de metodologias ágeis como Scrum, TDD e Refactoring assegurando a qualidade na entrega e manutenção do produto. 
 
-	* Nome do Projeto: IBM – Manufatura
+* Nome do Projeto: IBM – Manufatura
 	* Cargo: Analista Programador Jr.
 	* Data Inicio: 23/10/08		Data Fim: 10/07/2010
 	* Ambiente: Java 5, JavaEE 5, WebSphere 6/7, Refactoring, DB2, CVS, XML, XSL, Eclipse, Hibernate 3, JSP, Servlet, Hudson, AIX 5.
@@ -72,23 +73,28 @@ CV
 	* Responsabilidades: desenvolver e dar manutenção nas aplicações desenvolvidas na plataforma JEE a partir dos requisitos estabelecidos pelo cliente. 
 
 
-* Experiência (três últimas)
-	*Julho/2012 – Presente 	Engenheiro de Software Pleno			Ci&T Business Agility
-	*Março/201 – julho/2012	Desenvolvedor de Software				ADP
-	*Jan/2010 – Março/2012 	Software Designer Pleno					HP R&D Brazil
+Experiência (três últimas)
+==
+	* Julho/2012 – Presente 	Engenheiro de Software Pleno			Ci&T Business Agility
+	* Março/201 – julho/2012	Desenvolvedor de Software				ADP
+	* Jan/2010 – Março/2012 	Software Designer Pleno					HP R&D Brazil
 
-* Idiomas
+Idiomas
+==
 	*Inglês:Upper-Intermediate  	LSI(www.lsi.edu)	Intercâmbio NZ
 	*Experiência: participação em reuniões, discussões e apresentações técnicas na área TI com nativos em projeto internacionais. Vivência internacional, um mês (Agosto - Setembro/2010) na Nova Zelândia.
 
-* Hobby
+Hobby
+==
 	* Palestrante: The Developer Conference 2012 - Trilha Agile 
 	* Escritor 	 Editora Ciência Moderna	www.lcm.com.br 
 
-* Observação
+Observação
+==
 	* Disponível para morar em outra cidade/estado/país. 
 
-* Informações Pessoais 
+Informações Pessoais 
+==
 	* Blog: www.camilolopes.com.br
 	* twitter:@camilolope
 
