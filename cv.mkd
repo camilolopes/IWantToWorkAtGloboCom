@@ -1,19 +1,94 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+* Plataforma de Cadastro (1 Vaga)
+	* Time responsável pela plataforma única de cadastro e login da globo.com, assim como as inscrições de programas como "BBB", "The Voice" e colaborações dos internautas. O Time trabalha com diversas tecnologias, linguagens, frameworks e sistemas, o que proporciona um ambiente variado, interessante e desafiador. Nossas aplicações lidam com milhões de requisições diariamente e precisamos de soluções criativas para lidar com estes volumes.
 
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+* Requisitos para a vaga
+
+	* Práticas de engenharia de software (refactory, TDD, etc..)
+	* Proficiência em Arquiteturas de sistemas web (arquiteturas comuns, casos de sucesso, problemas típicos etc..)
+	* Conhecimentos de mecanismos e estratégias de cache
+	* Experiência sólida em desenvolvimento web (HTTP, REST, webserver, etc..)
+	* Noções de segurança web (injection, XSS, CSRF, codificação segura)
+	* Conhecimentos mínimos em infraestrutra (Sistemas Operacionais, Redes (TCP/IP), DNS, webservers etc..)
+	* Queries SQL, Oracle e Mysql
+	* Sólidos conhecimentos em java, ruby, javascript e CSS
+	* Experiência em java com JPA, Hibernate, Spring, EJB, Struts, Velocity
+	* Experiência em com jboss e tomcat
+	* Experiência em java com o pacote "java.concurrent"
+
+
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+* Resumo
+	* Profissional atua com desenvolvimento de software desde 2003. Trabalhou de 2004-2006 como Freelance desenvolvendo sistemas em VB6 e PHP 4 para pequenas empresas.  Bacharelado em Sistemas de Informação, Especialização em Gestão Estratégia de Negócios. Trabalhou na IBM (2008-2010) como Analista Programador Java Jr. em projetos Internacionais. Curso de Inglês (intercâmbio) em Auckland/NZ – LSI School /2010. Em seguida recebeu o convite para trabalhar HP Labs Brasil como Software Designer Pleno. Atualmente trabalha na Ci&T como Engenheiro de Software Pleno em projeto Agile/Scrum na plataforma JEE. É autor do livro “Guia do Exame SCJP”, “Construindo aplicações JEE com Frameworks” e “TDD na Prática” publicados pela editora Ciência Moderna.À curto prazo tem interesse em melhorar suas praticas de desenvolvimento como Engenheiro de Software Pleno e em médio atuar como Engenheiro de Software Sênior e a longo como ScrumMaster/Coaching Agile.Nos últimos anos(desde 2010) tem se dedicado aos estudos e experiências em entregar software com qualidade (interna e externa) agregando valor ao cliente com transparência  e melhor custo x benefícios usando Agile.
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+* Habilidades 
+	* Total Experiência: com Java desde 2008
+	* O. S. 		: Linux
+	* Linguagens 	: XHTML, XML, CSS, Java 5, JEE 5, PL/SQL, JavaScript, Ajax
+	* JavaEE		:Servlet, JSP, JavaBeans, JSTL, WebServices SOAP
+	* Frameworks	: Hibernate 3.x, JSF 1.2, JSF 2.0, Facelets 1.1, Spring Security 3, Jasper Report 4, Quartz, Mockito API, DOJO, Apache CXF, PrimeFaces 3.x, RichFaces 3.x, Sprint Core 3.x, DBUnit, JUnit
+	* Banco de Dados: DB2, MySQL 5, MSSQL 2008, SQL Developer, Oracle 10g
+	* Metodologia Agile/Pattern: Scrum, Refactoring, TDD, Design Pattern
+	* IDE/Ferramentas: Eclipse, RSA, RAD, SVN, JUnit,Jenkins, SOAP UI, IReport, Git, WorkBench 5
+	* Servidor Aplicação:TomCat 6, GlassFish,WebSphere Server 7,Jetty	
+	* Cloud Computing : Amazon EC2
+
+* Projetos e Trabalhos
+
+	* Nome do Projeto: ITS
+	* Cargo: Engenheiro de Software	 Pleno		Abrangência: Nacional (MonSanto Brazil)
+	* Data Inicio: Julho/2012				Data Fim: Presente
+	* Ambiente: Java 5, JavaEE, Web Services,Oracle, Scrum, JSF  2.x, PrimeFaces 3.x, Jenkins,, SOAPUI, SVN, Jetty 7.x, JavaScript, * Agile, TDD, Mockito, JUNIT, DBUnit,Spring, Spring Security, Sonnar,Hibernate 3.x
+	* Descrição: Desenvolvimento do novo sistema na plataforma JEE para um cliente de grande porte tendo Scrum como framework de desenvolvimento. 
+	* Responsabilidades desenvolvimento, manutenção, teste, qualidade e garantir a entrega dentro dos prazos acordados.
+	* Atuação: responsável pelo desenvolvimento, design, manutenção, validação dos requisitos com o cliente assegurando a qualidade interna e externa do produto. Viagem internacional para knowledge training com time de suporte do cliente. 
+	
+	* Nome do Projeto: Portal
+	* Cargo: Desenvolvedor de Software III		Abrangência: ADP Labs
+	* Data Inicio: Março/2012			Data Fim: Julho/2012
+	* Ambiente: Java 5, JavaEE, Web Services,Oracle, Scrum, Quartz, JSF 1.2, Jenkins,, SOAPUI, SVN, WebSphere 7.x, DOJO
+	* Descrição: Desenvolvimento de novas features e manutenção no produto Portal da ADP
+	* Responsabilidades design, desenvolvimento, manutenção, teste, qualidade e performance de software. Utilizando boas praticas da engenharia de software. 
+	* Atuação: Atou no team do ACS (Access Control System) como sênior software developer desenvolvendo novas features para o produto e direciona os desenvolvedores menos sêniors ao uso de boas práticas de desenvolvimento. 
+	
+	* Nome do Projeto: Projeto HP CloudSystem
+	* Cargo: Software Designer Pleno 	Abrangência: HP R&D
+	* Data Inicio: 10/01/2011			Data Fim: 10/03/2012
+	* Ambiente: Java 5, JavaEE 5, Refactoring, Eclipse, Hibernate 3.x, Spring, Ant, Cloud Computing, Data Warehouse, MSSQL Server 2008, TDD, Scrum, Quartz, Mockito, SVN, Hudson, WebService.
+	*Descrição: Construção de uma Data WareHouse e Web Services para soluções de cloud computing da HP.
+	* Responsabilidades:  realizar pesquisa e desenvolvimento para inovações da Hewlett Parckard. Criação design, desenvolvimento, manutenção, teste, qualidade e performance de software. Utilizando boas praticas da engenharia de software. 
+	* Atuação: participou do release 7.1 do produto realizando pesquisas e investigações apresentando soluções para os produtos de virtualização da HP com Java e Data Warehouse. Foi responsável pelo design, desenvolvimento, performance e teste.Utilização de metodologias ágeis como Scrum, TDD e Refactoring assegurando a qualidade na entrega e manutenção do produto. 
+
+	* Nome do Projeto: IBM – Manufatura
+	* Cargo: Analista Programador Jr.
+	* Data Inicio: 23/10/08		Data Fim: 10/07/2010
+	* Ambiente: Java 5, JavaEE 5, WebSphere 6/7, Refactoring, DB2, CVS, XML, XSL, Eclipse, Hibernate 3, JSP, Servlet, Hudson, AIX 5.
+	* Descrição: Projeto Internacional na área de manufatura. 
+	* Responsabilidades: desenvolver e dar manutenção nas aplicações desenvolvidas na plataforma JEE a partir dos requisitos estabelecidos pelo cliente. 
+
+
+* Experiência (três últimas)
+	*Julho/2012 – Presente 	Engenheiro de Software Pleno			Ci&T Business Agility
+	*Março/201 – julho/2012	Desenvolvedor de Software				ADP
+	*Jan/2010 – Março/2012 	Software Designer Pleno					HP R&D Brazil
+
+* Idiomas
+	*Inglês:Upper-Intermediate  	LSI(www.lsi.edu)	Intercâmbio NZ
+	*Experiência: participação em reuniões, discussões e apresentações técnicas na área TI com nativos em projeto internacionais. Vivência internacional, um mês (Agosto - Setembro/2010) na Nova Zelândia.
+
+* Hobby
+	* Palestrante: The Developer Conference 2012 - Trilha Agile 
+	* Escritor 	 Editora Ciência Moderna	www.lcm.com.br 
+
+* Observação
+	* Disponível para morar em outra cidade/estado/país. 
+
+* Informações Pessoais 
+	* Blog: www.camilolopes.com.br
+	* twitter:@camilolope
+
